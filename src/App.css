@@ -1,0 +1,15 @@
+.App {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.table {
+  background-color: black;
+  color: white;
+}
+
+.table td,
+.table th {
+  background-color: black !important;
+  color: white !important;
+}
