@@ -1,4 +1,10 @@
-﻿## v0.2.0
+﻿## v0.2.1
+
+- GET function for API
+- Get token on LocalStorage
+- Get expenses data for home
+
+## v0.2.0
 
 - Login page prototipe
 - Global State added (ContextAPI)
@@ -9,6 +15,7 @@
 - Created the project setup
 - Added basci libaries
 - Created the main files and folders
+
 
 
 
